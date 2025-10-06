@@ -6,5 +6,3 @@ This Streamlit app is an AI-powered travel Agent that generates personalized tra
 The AI Travel Agent has two main components:
 - **Researcher:** Responsible for generating search terms based on the user's destination and travel duration, and searching the web for relevant activities and accommodations using SerpAPI.
 - **Planner:** Takes the research results and user preferences to generate a personalized draft itinerary that includes suggested activities, dining options, and accommodations.
-
-- 
