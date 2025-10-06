@@ -11,4 +11,4 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [🎙️ AI Blog to Podcast Agent](starter_ai_agents/ai_blog_to_podcast_agent/)
 *   [❤️‍🩹 AI Breakup Recovery Agent](starter_ai_agents/ai_breakup_recovery_agent/)
 *   [🎵 AI Music Generator Agent](starter_ai_agents/ai_music_generator_agent/)
-*   [🛫 AI Travel Agent (Local & Cloud)](starter_ai_agents/ai_travel_agent/)
+*   [🛫 AI Travel Agent](starter_ai_agents/ai_travel_agent/)
