@@ -2,7 +2,7 @@
 
 This is an AI-powered application designed to help users emotionally recover from breakups by providing support, guidance, and emotional outlet messages from a team of specialized AI agents. The app is built using **Streamlit** and **Agno**, leveraging **OpenAI**
 
-## 🚀 Features
+## Features
 
 -  **Multi-Agent Team:** 
     - **Therapist Agent:** Offers empathetic support and coping strategies.
@@ -18,7 +18,7 @@ This is an AI-powered application designed to help users emotionally recover fro
 -  **User-Friendly Interface:** 
     - Simple, intuitive UI with easy interaction and display of agent responses.
 
-## 🛠️ Usage
+## Usage
 
 1. **Enter Your Feelings:** 
     - Describe how you're feeling in the text area.
