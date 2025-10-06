@@ -12,3 +12,8 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [❤️‍🩹 AI Breakup Recovery Agent](starter_ai_agents/ai_breakup_recovery_agent/)
 *   [🎵 AI Music Generator Agent](starter_ai_agents/ai_music_generator_agent/)
 *   [🛫 AI Travel Agent](starter_ai_agents/ai_travel_agent/)
+*   [🌐 Local News Agent (OpenAI Swarm)](starter_ai_agents/local_news_agent/)
+*   [📊 Finance Agent](starter_ai_agents/finance_agent/)
+*   [🔍 OpenAI Research Agent](starter_ai_agents/opeani_research_agent/)
+
+
