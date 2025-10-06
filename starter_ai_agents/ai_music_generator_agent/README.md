@@ -4,7 +4,7 @@ This is a Streamlit-based application that allows users to generate music using 
 
 ## Features
 
-- **Generate Music**: Enter a detailed prompt for music generation (genre, instruments, mood, etc.), and the app will generate a music track.
+- **Generate Music**: Enter a detailed prompt for music generation (genre, instruments, mood), and the app will generate a music track.
 - **MP3 Output**: The generated music will be in MP3 format, available for listening or download.
 - **User-Friendly Interface**: Simple and clean Streamlit UI for ease of use.
 - **API Key Integration**: Requires both OpenAI and ModelsLab API keys to function. API keys are entered in the sidebar for authentication.
